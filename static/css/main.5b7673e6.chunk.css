@@ -828,6 +828,9 @@ h2 {
 }
 
 @media (max-width: 576px) {
+    .modalBackground{
+        align-items: flex-start;
+    }
     .modalContainer {
         width: 340px;
         height: auto;
